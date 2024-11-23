@@ -1,0 +1,10 @@
+name: UUUIDsync
+version: 2.5
+main: com.example.UUIDsync.Main
+api-version: 1.20
+description: 一个可以管理 UUID 组的 Minecraft 插件。
+folia-supported: true
+commands:
+  cop:
+    description: 复制玩家 UUID
+    usage: /cop <uuid1> <uuid2>
